@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/expensivecloud/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/expensivecloud/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/expensivecloud/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/expensivecloud/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/expensivecloud/DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/expensivecloud/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/expensivecloud/DSA/tree/master/0217-contains-duplicate) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/expensivecloud/DSA/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/expensivecloud/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/expensivecloud/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/expensivecloud/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/expensivecloud/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/expensivecloud/DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/expensivecloud/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/expensivecloud/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/expensivecloud/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
