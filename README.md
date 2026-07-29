@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/expensivecloud/DSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/expensivecloud/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/expensivecloud/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/expensivecloud/DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/expensivecloud/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/expensivecloud/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/expensivecloud/DSA/tree/master/0238-product-of-array-except-self) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/expensivecloud/DSA/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/expensivecloud/DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
