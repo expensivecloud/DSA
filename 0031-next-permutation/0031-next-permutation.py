@@ -7,23 +7,21 @@ class Solution(object):
         n = len(nums)
 
         #step 1 find pivot
-        i = n-2
-        while i >= 0 and nums[i] >= nums[i+1]:
+        i = n - 2
+        while i >= 0 and nums[i]>= nums[i+1]:
             i -= 1
 
-        #step 2 find the next greater element and swap
+        #step 2 find greater and swap
         if i >= 0:
-            j = n-1
+            j = n - 1
             while nums[j] <= nums[i]:
                 j -= 1
             nums[i],nums[j] = nums[j],nums[i]
 
-        #step 3 reverse the suffix
+        #step 3 reverse
         left = i + 1
         right = n - 1
-
         while left < right:
-            nums[left] , nums[right] = nums[right] , nums[left]
-
+            nums[left],nums[right] = nums[right],nums[left]
             left += 1
             right -= 1
