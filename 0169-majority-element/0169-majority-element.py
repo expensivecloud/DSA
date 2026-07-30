@@ -4,4 +4,6 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        return sorted(nums).[len(nums)/2]
+        nums.sort()
+
+        return nums[len(nums)/2]
