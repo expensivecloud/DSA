@@ -1,20 +1,20 @@
 class Solution(object):
     def setZeroes(self, matrix):
+        
         rows = len(matrix)
         cols = len(matrix[0])
 
-        zero_rows = set()
-        zero_cols = set()
+        row_zeros = set()
+        col_zeros = set()
 
-        # Find rows and columns containing zeros
+
         for i in range(rows):
             for j in range(cols):
                 if matrix[i][j] == 0:
-                    zero_rows.add(i)
-                    zero_cols.add(j)
+                    row_zeros.add(i)
+                    col_zeros.add(j)
 
-        # Update the matrix
         for i in range(rows):
             for j in range(cols):
-                if i in zero_rows or j in zero_cols:
+                if i in row_zeros or j in col_zeros:
                     matrix[i][j] = 0
