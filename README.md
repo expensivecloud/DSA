@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/expensivecloud/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/expensivecloud/DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/expensivecloud/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/expensivecloud/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/expensivecloud/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/expensivecloud/DSA/tree/master/0242-valid-anagram) |
@@ -136,9 +137,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/expensivecloud/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/expensivecloud/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/expensivecloud/DSA/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/expensivecloud/DSA/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/expensivecloud/DSA/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/expensivecloud/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0868-binary-gap](https://github.com/expensivecloud/DSA/tree/master/0868-binary-gap) |
 ## Recursion
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/expensivecloud/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/expensivecloud/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/expensivecloud/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/expensivecloud/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
