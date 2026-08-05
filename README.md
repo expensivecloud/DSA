@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/expensivecloud/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/expensivecloud/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/expensivecloud/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/expensivecloud/DSA/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/expensivecloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/expensivecloud/DSA/tree/master/0994-rotting-oranges) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/expensivecloud/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/expensivecloud/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/expensivecloud/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/expensivecloud/DSA/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/expensivecloud/DSA/tree/master/0771-jewels-and-stones) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/expensivecloud/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/expensivecloud/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/expensivecloud/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/expensivecloud/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/expensivecloud/DSA/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/expensivecloud/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/expensivecloud/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Tree
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/expensivecloud/DSA/tree/master/0067-add-binary) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/expensivecloud/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
