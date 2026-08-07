@@ -8,13 +8,23 @@ class MedianFinder(object):
         :type num: int
         :rtype: None
         """       
-        self.nums.append(num)
+        left = 0
+        right = len(self.nums)
 
+        while left < right:
+            mid = (left + right) // 2
+
+            if self.nums[mid] < num:
+                left = mid + 1
+            else:
+                right = mid
+
+        self.nums.insert(left, num)
+            
     def findMedian(self):
         """
         :rtype: float
         """
-        self.nums.sort()
         n = len(self.nums)
 
         if n % 2 == 1:
