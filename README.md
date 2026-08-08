@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/expensivecloud/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/expensivecloud/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/expensivecloud/DSA/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/expensivecloud/DSA/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/expensivecloud/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/expensivecloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/expensivecloud/DSA/tree/master/0994-rotting-oranges) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/expensivecloud/DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/expensivecloud/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/expensivecloud/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/expensivecloud/DSA/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/expensivecloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
 ## String
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/expensivecloud/DSA/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/expensivecloud/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/expensivecloud/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/expensivecloud/DSA/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
