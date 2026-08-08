@@ -1,4 +1,4 @@
-import heapq
+from collections import deque
 
 class Solution(object):
     def maxSlidingWindow(self, nums, k):
@@ -7,36 +7,22 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-
-        n = len(nums)
-
-        i = 0
-        j = 0
-
-        heap = []
+        dq = deque()
         ans = []
 
-        while j < n:
+        for i in range(len(nums)):
 
-            # Add current element to max heap
-            heapq.heappush(heap, (-nums[j], j))
+            if dq and dq[0] < i - k + 1:
+                dq.popleft()
 
-            # Window size < k
-            if j - i + 1 < k:
-                j += 1
-
-            # Window size == k
-            elif j - i + 1 == k:
-
-                # Remove elements outside the window
-                while heap and heap[0][1] < i:
-                    heapq.heappop(heap)
-
-                # Maximum is at top
-                ans.append(-heap[0][0])
-
-                # Slide window
-                i += 1
-                j += 1
-
+            while dq and nums[dq[-1]] <= nums[i]:
+                dq.pop()
+            
+            dq.append(i)
+            
+            if i >= k - 1:
+                ans.append(nums[dq[0]])
+        
         return ans
+            
+        
