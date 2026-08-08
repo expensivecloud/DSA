@@ -7,22 +7,40 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
+
+        n = len(nums)
+
+        i = 0
+        j = 0
+
         dq = deque()
         ans = []
 
-        for i in range(len(nums)):
+        while j < n:
 
-            if dq and dq[0] < i - k + 1:
-                dq.popleft()
-
-            while dq and nums[dq[-1]] <= nums[i]:
+            # Remove smaller elements from the back
+            while dq and nums[dq[-1]] <= nums[j]:
                 dq.pop()
-            
-            dq.append(i)
-            
-            if i >= k - 1:
+
+            # Add current index
+            dq.append(j)
+
+            # Window size < k
+            if j - i + 1 < k:
+                j += 1
+
+            # Window size == k
+            elif j - i + 1 == k:
+
+                # Remove elements outside the window
+                while dq and dq[0] < i:
+                    dq.popleft()
+
+                # Front contains maximum
                 ans.append(nums[dq[0]])
-        
+
+                # Slide window
+                i += 1
+                j += 1
+
         return ans
-            
-        
