@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/expensivecloud/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/expensivecloud/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/expensivecloud/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/expensivecloud/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/expensivecloud/DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/expensivecloud/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/expensivecloud/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/expensivecloud/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/expensivecloud/DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/expensivecloud/DSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/expensivecloud/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/expensivecloud/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/expensivecloud/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/expensivecloud/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/expensivecloud/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/expensivecloud/DSA/tree/master/0860-lemonade-change) |
 | [0984-string-without-aaa-or-bbb](https://github.com/expensivecloud/DSA/tree/master/0984-string-without-aaa-or-bbb) |
