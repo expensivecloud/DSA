@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/expensivecloud/DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/expensivecloud/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/expensivecloud/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/expensivecloud/DSA/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/expensivecloud/DSA/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/expensivecloud/DSA/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/expensivecloud/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/expensivecloud/DSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/expensivecloud/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/expensivecloud/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/expensivecloud/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/expensivecloud/DSA/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/expensivecloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/expensivecloud/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/expensivecloud/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/expensivecloud/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/expensivecloud/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/expensivecloud/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/expensivecloud/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/expensivecloud/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/expensivecloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/expensivecloud/DSA/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/expensivecloud/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/expensivecloud/DSA/tree/master/0860-lemonade-change) |
 | [0984-string-without-aaa-or-bbb](https://github.com/expensivecloud/DSA/tree/master/0984-string-without-aaa-or-bbb) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/expensivecloud/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -380,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/expensivecloud/DSA/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/expensivecloud/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
