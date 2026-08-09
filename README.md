@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/expensivecloud/DSA/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/expensivecloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/expensivecloud/DSA/tree/master/0994-rotting-oranges) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/expensivecloud/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/expensivecloud/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/expensivecloud/DSA/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/expensivecloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/expensivecloud/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
 ## String
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/expensivecloud/DSA/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/expensivecloud/DSA/tree/master/0860-lemonade-change) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/expensivecloud/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Binary Search Tree
 |  |
 | ------- |
