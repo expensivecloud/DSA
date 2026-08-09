@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/expensivecloud/DSA/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/expensivecloud/DSA/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/expensivecloud/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0860-lemonade-change](https://github.com/expensivecloud/DSA/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/expensivecloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/expensivecloud/DSA/tree/master/0994-rotting-oranges) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/expensivecloud/DSA/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/expensivecloud/DSA/tree/master/0860-lemonade-change) |
 ## Binary Search Tree
 |  |
 | ------- |
