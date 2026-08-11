@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/expensivecloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/expensivecloud/DSA/tree/master/0994-rotting-oranges) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/expensivecloud/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/expensivecloud/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
 ## Hash Table
 |  |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/expensivecloud/DSA/tree/master/0860-lemonade-change) |
 | [0984-string-without-aaa-or-bbb](https://github.com/expensivecloud/DSA/tree/master/0984-string-without-aaa-or-bbb) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/expensivecloud/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/expensivecloud/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
