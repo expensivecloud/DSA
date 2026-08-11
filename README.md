@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/expensivecloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/expensivecloud/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
+| [2578-split-with-minimum-sum](https://github.com/expensivecloud/DSA/tree/master/2578-split-with-minimum-sum) |
 ## String
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/expensivecloud/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/expensivecloud/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/expensivecloud/DSA/tree/master/0070-climbing-stairs) |
+| [2578-split-with-minimum-sum](https://github.com/expensivecloud/DSA/tree/master/2578-split-with-minimum-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-string-without-aaa-or-bbb](https://github.com/expensivecloud/DSA/tree/master/0984-string-without-aaa-or-bbb) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/expensivecloud/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/expensivecloud/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [2578-split-with-minimum-sum](https://github.com/expensivecloud/DSA/tree/master/2578-split-with-minimum-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
