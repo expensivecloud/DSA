@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/expensivecloud/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/expensivecloud/DSA/tree/master/0771-jewels-and-stones) |
 | [0984-string-without-aaa-or-bbb](https://github.com/expensivecloud/DSA/tree/master/0984-string-without-aaa-or-bbb) |
+| [1143-longest-common-subsequence](https://github.com/expensivecloud/DSA/tree/master/1143-longest-common-subsequence) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/expensivecloud/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/expensivecloud/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/expensivecloud/DSA/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/expensivecloud/DSA/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/expensivecloud/DSA/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/expensivecloud/DSA/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -464,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/expensivecloud/DSA/tree/master/0877-stone-game) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/expensivecloud/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
