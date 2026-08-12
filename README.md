@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/expensivecloud/DSA/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/expensivecloud/DSA/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/expensivecloud/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0740-delete-and-earn](https://github.com/expensivecloud/DSA/tree/master/0740-delete-and-earn) |
 | [0860-lemonade-change](https://github.com/expensivecloud/DSA/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/expensivecloud/DSA/tree/master/0877-stone-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/expensivecloud/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/expensivecloud/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/expensivecloud/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/expensivecloud/DSA/tree/master/0567-permutation-in-string) |
+| [0740-delete-and-earn](https://github.com/expensivecloud/DSA/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/expensivecloud/DSA/tree/master/0771-jewels-and-stones) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/expensivecloud/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/expensivecloud/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/expensivecloud/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/expensivecloud/DSA/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/expensivecloud/DSA/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/expensivecloud/DSA/tree/master/0877-stone-game) |
 ## Math
 |  |
