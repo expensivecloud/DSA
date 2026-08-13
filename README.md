@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/expensivecloud/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/expensivecloud/DSA/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/expensivecloud/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/expensivecloud/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/expensivecloud/DSA/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/expensivecloud/DSA/tree/master/0115-distinct-subsequences) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/expensivecloud/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/expensivecloud/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/expensivecloud/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/expensivecloud/DSA/tree/master/0055-jump-game) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/expensivecloud/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/expensivecloud/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/expensivecloud/DSA/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/expensivecloud/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/expensivecloud/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/expensivecloud/DSA/tree/master/0234-palindrome-linked-list) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/expensivecloud/DSA/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/expensivecloud/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/expensivecloud/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/expensivecloud/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/expensivecloud/DSA/tree/master/0435-non-overlapping-intervals) |
