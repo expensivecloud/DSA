@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/expensivecloud/DSA/tree/master/0994-rotting-oranges) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/expensivecloud/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/expensivecloud/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1048-longest-string-chain](https://github.com/expensivecloud/DSA/tree/master/1048-longest-string-chain) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/expensivecloud/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Hash Table
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/expensivecloud/DSA/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/expensivecloud/DSA/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/expensivecloud/DSA/tree/master/0771-jewels-and-stones) |
+| [1048-longest-string-chain](https://github.com/expensivecloud/DSA/tree/master/1048-longest-string-chain) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/expensivecloud/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/expensivecloud/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/expensivecloud/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/expensivecloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/expensivecloud/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1048-longest-string-chain](https://github.com/expensivecloud/DSA/tree/master/1048-longest-string-chain) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
 | [2578-split-with-minimum-sum](https://github.com/expensivecloud/DSA/tree/master/2578-split-with-minimum-sum) |
 ## String
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/expensivecloud/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/expensivecloud/DSA/tree/master/0771-jewels-and-stones) |
 | [0984-string-without-aaa-or-bbb](https://github.com/expensivecloud/DSA/tree/master/0984-string-without-aaa-or-bbb) |
+| [1048-longest-string-chain](https://github.com/expensivecloud/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/expensivecloud/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/expensivecloud/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/expensivecloud/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/expensivecloud/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/expensivecloud/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/expensivecloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1048-longest-string-chain](https://github.com/expensivecloud/DSA/tree/master/1048-longest-string-chain) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/expensivecloud/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0740-delete-and-earn](https://github.com/expensivecloud/DSA/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/expensivecloud/DSA/tree/master/0877-stone-game) |
+| [1048-longest-string-chain](https://github.com/expensivecloud/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/expensivecloud/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/expensivecloud/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/expensivecloud/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
