@@ -514,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/expensivecloud/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/expensivecloud/DSA/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/expensivecloud/DSA/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/expensivecloud/DSA/tree/master/1148-article-views-i) |
