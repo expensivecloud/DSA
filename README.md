@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/expensivecloud/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/expensivecloud/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/expensivecloud/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/expensivecloud/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/expensivecloud/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/expensivecloud/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/expensivecloud/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/expensivecloud/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/expensivecloud/DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/expensivecloud/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/expensivecloud/DSA/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/expensivecloud/DSA/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/expensivecloud/DSA/tree/master/0509-fibonacci-number) |
@@ -533,4 +535,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/expensivecloud/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/expensivecloud/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/expensivecloud/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
