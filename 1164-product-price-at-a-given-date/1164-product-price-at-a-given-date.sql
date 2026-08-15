@@ -15,5 +15,5 @@ WHERE product_id NOT IN (
     SELECT product_id
     FROM Products
     WHERE change_date <= '2019-08-16'
+    GROUP BY product_id
 )
-GROUP BY product_id;
