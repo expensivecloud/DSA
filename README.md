@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/expensivecloud/DSA/tree/master/1048-longest-string-chain) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
+| [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/expensivecloud/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Hash Table
 |  |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/expensivecloud/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/expensivecloud/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
+| [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/expensivecloud/DSA/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/expensivecloud/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/expensivecloud/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/expensivecloud/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -581,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/expensivecloud/DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/expensivecloud/DSA/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
+| [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
 ## Graph Theory
 |  |
 | ------- |
