@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/expensivecloud/DSA/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/expensivecloud/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/expensivecloud/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/expensivecloud/DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/expensivecloud/DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/expensivecloud/DSA/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/expensivecloud/DSA/tree/master/0740-delete-and-earn) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/expensivecloud/DSA/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/expensivecloud/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/expensivecloud/DSA/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/expensivecloud/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/expensivecloud/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/expensivecloud/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/expensivecloud/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/expensivecloud/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/expensivecloud/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/expensivecloud/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/expensivecloud/DSA/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/expensivecloud/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/expensivecloud/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/expensivecloud/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/expensivecloud/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/expensivecloud/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/expensivecloud/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/expensivecloud/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
@@ -575,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/expensivecloud/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/expensivecloud/DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/expensivecloud/DSA/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
