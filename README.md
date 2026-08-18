@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/expensivecloud/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
 | [1048-longest-string-chain](https://github.com/expensivecloud/DSA/tree/master/1048-longest-string-chain) |
+| [1162-as-far-from-land-as-possible](https://github.com/expensivecloud/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
 | [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/expensivecloud/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/expensivecloud/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/expensivecloud/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
+| [1162-as-far-from-land-as-possible](https://github.com/expensivecloud/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
 ## Dynamic Programming
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/expensivecloud/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/expensivecloud/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/expensivecloud/DSA/tree/master/1143-longest-common-subsequence) |
+| [1162-as-far-from-land-as-possible](https://github.com/expensivecloud/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/expensivecloud/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Math
 |  |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/expensivecloud/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/expensivecloud/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1162-as-far-from-land-as-possible](https://github.com/expensivecloud/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
 ## Binary Tree
 |  |
