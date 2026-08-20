@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/expensivecloud/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/expensivecloud/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/expensivecloud/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Hash Table
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/expensivecloud/DSA/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/expensivecloud/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/expensivecloud/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/expensivecloud/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/expensivecloud/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/expensivecloud/DSA/tree/master/1162-as-far-from-land-as-possible) |
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/expensivecloud/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Binary Tree
 |  |
 | ------- |
@@ -663,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/expensivecloud/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/expensivecloud/DSA/tree/master/0785-is-graph-bipartite) |
 | [1514-path-with-maximum-probability](https://github.com/expensivecloud/DSA/tree/master/1514-path-with-maximum-probability) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/expensivecloud/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -686,9 +691,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/expensivecloud/DSA/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/expensivecloud/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/expensivecloud/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/expensivecloud/DSA/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/expensivecloud/DSA/tree/master/1514-path-with-maximum-probability) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/expensivecloud/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## 0-1 BFS
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/expensivecloud/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
