@@ -1,4 +1,4 @@
-import heapq
+from collections import deque
 
 class Solution(object):
     def minimumObstacles(self, grid):
@@ -6,22 +6,16 @@ class Solution(object):
         n = len(grid)
         m = len(grid[0])
 
+        dirs = [(1,0), (-1,0), (0,1), (0,-1)]
+
         dist = [[float('inf')] * m for _ in range(n)]
         dist[0][0] = 0
 
-        pq = [(0, 0, 0)]   # obstacles, x, y
+        dq = deque([(0, 0)])
 
-        dirs = [(1,0), (-1,0), (0,1), (0,-1)]
+        while dq:
 
-        while pq:
-
-            d, x, y = heapq.heappop(pq)
-
-            if x == n - 1 and y == m - 1:
-                return d
-
-            if d > dist[x][y]:
-                continue
+            x, y = dq.popleft()
 
             for dx, dy in dirs:
 
@@ -30,17 +24,14 @@ class Solution(object):
 
                 if 0 <= nx < n and 0 <= ny < m:
 
-                    weight = grid[nx][ny]
-
-                    new_dist = d + weight
+                    new_dist = dist[x][y] + grid[nx][ny]
 
                     if new_dist < dist[nx][ny]:
-
                         dist[nx][ny] = new_dist
 
-                        heapq.heappush(
-                            pq,
-                            (new_dist, nx, ny)
-                        )
+                        if grid[nx][ny] == 0:
+                            dq.appendleft((nx, ny))
+                        else:
+                            dq.append((nx, ny))
 
-        return -1
+        return dist[n-1][m-1]
