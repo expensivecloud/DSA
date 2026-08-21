@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/expensivecloud/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/expensivecloud/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/expensivecloud/DSA/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/expensivecloud/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/expensivecloud/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/expensivecloud/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/expensivecloud/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/expensivecloud/DSA/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/expensivecloud/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/expensivecloud/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0994-rotting-oranges](https://github.com/expensivecloud/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/expensivecloud/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/expensivecloud/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/expensivecloud/DSA/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/expensivecloud/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [1514-path-with-maximum-probability](https://github.com/expensivecloud/DSA/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/expensivecloud/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Graph Coloring
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/expensivecloud/DSA/tree/master/0207-course-schedule) |
+| [0797-all-paths-from-source-to-target](https://github.com/expensivecloud/DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -707,4 +711,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/expensivecloud/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/expensivecloud/DSA/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
