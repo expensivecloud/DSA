@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/expensivecloud/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/expensivecloud/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/expensivecloud/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/expensivecloud/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/expensivecloud/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/expensivecloud/DSA/tree/master/1048-longest-string-chain) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/expensivecloud/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/expensivecloud/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/expensivecloud/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/expensivecloud/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
