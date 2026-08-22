@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/expensivecloud/DSA/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/expensivecloud/DSA/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/expensivecloud/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/expensivecloud/DSA/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/expensivecloud/DSA/tree/master/0860-lemonade-change) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/expensivecloud/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0877-stone-game](https://github.com/expensivecloud/DSA/tree/master/0877-stone-game) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/expensivecloud/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/expensivecloud/DSA/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/expensivecloud/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/expensivecloud/DSA/tree/master/0778-swim-in-rising-water) |
 | [1514-path-with-maximum-probability](https://github.com/expensivecloud/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/expensivecloud/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/expensivecloud/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/expensivecloud/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/expensivecloud/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/expensivecloud/DSA/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/expensivecloud/DSA/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/expensivecloud/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/expensivecloud/DSA/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/expensivecloud/DSA/tree/master/0778-swim-in-rising-water) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/expensivecloud/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0994-rotting-oranges](https://github.com/expensivecloud/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/expensivecloud/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/expensivecloud/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/expensivecloud/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/expensivecloud/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/expensivecloud/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/expensivecloud/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/expensivecloud/DSA/tree/master/0841-keys-and-rooms) |
@@ -465,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/expensivecloud/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/expensivecloud/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/expensivecloud/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/expensivecloud/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/expensivecloud/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/expensivecloud/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/expensivecloud/DSA/tree/master/0841-keys-and-rooms) |
@@ -612,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/expensivecloud/DSA/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/expensivecloud/DSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -667,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/expensivecloud/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/expensivecloud/DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/expensivecloud/DSA/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/expensivecloud/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/expensivecloud/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -706,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/expensivecloud/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/expensivecloud/DSA/tree/master/0778-swim-in-rising-water) |
 | [1514-path-with-maximum-probability](https://github.com/expensivecloud/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/expensivecloud/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
