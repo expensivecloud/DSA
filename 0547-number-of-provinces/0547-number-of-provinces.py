@@ -5,28 +5,39 @@ class Solution(object):
 
         n = len(isConnected)
 
-        visited = [False] * n
+        parent = list(range(n))
+        size = [1] * n
 
-        provinces = 0
+        def find(x):
+            if parent[x] != x:
+                parent[x] = find(parent[x])
+            return parent[x]
+
+        def union(a,b):
+            pa = find(a)
+            pb = find(b)
+
+            if pa == pb:
+                return False
+
+            if size[pa] < size[pb]:
+                pa, pb = pb, pa
+
+            parent[pb] = pa
+            size[pa] += size[pb]
+
+            return True
+
+        provinces = n
 
         for i in range(n):
+            for j in range(i+1,n):
 
-            if not visited[i]:
+                if isConnected[i][j] == 1:
 
-                provinces += 1
-
-                q = deque([i])
-                visited[i] = True
-
-                while q:
-
-                    city = q.popleft()
-
-                    for j in range(n):
-
-                        if isConnected[city][j] == 1 and not visited[j]:
-
-                            visited[j] = True
-                            q.append(j)
+                    if union(i,j):
+                        provinces -= 1
 
         return provinces
+
+                
