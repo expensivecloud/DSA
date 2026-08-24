@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/expensivecloud/DSA/tree/master/0841-keys-and-rooms) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/expensivecloud/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/expensivecloud/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
 ## Breadth-First Search
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/expensivecloud/DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/expensivecloud/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1162-as-far-from-land-as-possible](https://github.com/expensivecloud/DSA/tree/master/1162-as-far-from-land-as-possible) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/expensivecloud/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/expensivecloud/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/expensivecloud/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/expensivecloud/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/expensivecloud/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
 ## Graph Theory
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/expensivecloud/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/expensivecloud/DSA/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/expensivecloud/DSA/tree/master/1129-shortest-path-with-alternating-colors) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/expensivecloud/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/expensivecloud/DSA/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/expensivecloud/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Graph Coloring
