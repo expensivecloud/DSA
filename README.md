@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/expensivecloud/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2076-process-restricted-friend-requests](https://github.com/expensivecloud/DSA/tree/master/2076-process-restricted-friend-requests) |
 ## Graph Theory
 |  |
 | ------- |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/expensivecloud/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/expensivecloud/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/expensivecloud/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+| [2076-process-restricted-friend-requests](https://github.com/expensivecloud/DSA/tree/master/2076-process-restricted-friend-requests) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/expensivecloud/DSA/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Graph Coloring
 |  |
