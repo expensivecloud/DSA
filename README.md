@@ -691,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/expensivecloud/DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/expensivecloud/DSA/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/expensivecloud/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/expensivecloud/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/expensivecloud/DSA/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/expensivecloud/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/expensivecloud/DSA/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/expensivecloud/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/expensivecloud/DSA/tree/master/1514-path-with-maximum-probability) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/expensivecloud/DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1791-find-center-of-star-graph](https://github.com/expensivecloud/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/expensivecloud/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/expensivecloud/DSA/tree/master/2076-process-restricted-friend-requests) |
