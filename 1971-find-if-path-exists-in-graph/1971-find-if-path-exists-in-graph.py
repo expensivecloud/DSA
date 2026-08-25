@@ -1,5 +1,3 @@
-from collections import deque
-
 class Solution(object):
     def validPath(self, n, edges, source, destination):
         """
@@ -10,26 +8,28 @@ class Solution(object):
         :rtype: bool
         """
 
-        graph = [[] for _ in range(n)]
+        parent = list(range(n))
+        size = [1] * n
+
+        def findP(node):
+            if parent[node] != node:
+                parent[node] = findP(parent[node])
+            return parent[node]
+
+        def union(a, b):
+            pa = findP(a)
+            pb = findP(b)
+
+            if pa == pb:
+                return
+
+            if size[pa] < size[pb]:
+                pa, pb = pb, pa
+
+            parent[pb] = pa
+            size[pa] += size[pb]
 
         for u, v in edges:
-            graph[u].append(v)
-            graph[v].append(u)
+            union(u, v)
 
-        q = deque([source])
-        visited = [False] * n
-        visited[source] = True
-
-        while q:
-            node = q.popleft()
-
-            if node == destination:
-                return True
-
-            for nxt in graph[node]:
-
-                if not visited[nxt]:
-                    visited[nxt] = True
-                    q.append(nxt)
-
-        return False
+        return findP(source) == findP(destination)
