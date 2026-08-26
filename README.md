@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/expensivecloud/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/expensivecloud/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/expensivecloud/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/expensivecloud/DSA/tree/master/0020-valid-parentheses) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/expensivecloud/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/expensivecloud/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/expensivecloud/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/expensivecloud/DSA/tree/master/0016-3sum-closest) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/expensivecloud/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/expensivecloud/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/expensivecloud/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/expensivecloud/DSA/tree/master/0053-maximum-subarray) |
@@ -764,4 +767,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/expensivecloud/DSA/tree/master/0797-all-paths-from-source-to-target) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/expensivecloud/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
