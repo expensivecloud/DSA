@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/expensivecloud/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/expensivecloud/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/expensivecloud/DSA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/expensivecloud/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/expensivecloud/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/expensivecloud/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/expensivecloud/DSA/tree/master/0217-contains-duplicate) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/expensivecloud/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/expensivecloud/DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/expensivecloud/DSA/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/expensivecloud/DSA/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/expensivecloud/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/expensivecloud/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/expensivecloud/DSA/tree/master/0234-palindrome-linked-list) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/expensivecloud/DSA/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/expensivecloud/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -771,4 +774,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/expensivecloud/DSA/tree/master/0005-longest-palindromic-substring) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/expensivecloud/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
