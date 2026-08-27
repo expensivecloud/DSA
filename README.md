@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/expensivecloud/DSA/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/expensivecloud/DSA/tree/master/0860-lemonade-change) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/expensivecloud/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
+| [0875-koko-eating-bananas](https://github.com/expensivecloud/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/expensivecloud/DSA/tree/master/0877-stone-game) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/expensivecloud/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/expensivecloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/expensivecloud/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/expensivecloud/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/expensivecloud/DSA/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/expensivecloud/DSA/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/expensivecloud/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
