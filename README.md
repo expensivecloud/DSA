@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/expensivecloud/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/expensivecloud/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/expensivecloud/DSA/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/expensivecloud/DSA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/expensivecloud/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/expensivecloud/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/expensivecloud/DSA/tree/master/0567-permutation-in-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/expensivecloud/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/expensivecloud/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/expensivecloud/DSA/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/expensivecloud/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/expensivecloud/DSA/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/expensivecloud/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/expensivecloud/DSA/tree/master/0455-assign-cookies) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/expensivecloud/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/expensivecloud/DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/expensivecloud/DSA/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/expensivecloud/DSA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/expensivecloud/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/expensivecloud/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/expensivecloud/DSA/tree/master/0567-permutation-in-string) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/expensivecloud/DSA/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/expensivecloud/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/expensivecloud/DSA/tree/master/0389-find-the-difference) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/expensivecloud/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0868-binary-gap](https://github.com/expensivecloud/DSA/tree/master/0868-binary-gap) |
 | [1386-cinema-seat-allocation](https://github.com/expensivecloud/DSA/tree/master/1386-cinema-seat-allocation) |
