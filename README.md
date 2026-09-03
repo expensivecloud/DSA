@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/expensivecloud/DSA/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/expensivecloud/DSA/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/expensivecloud/DSA/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/expensivecloud/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/expensivecloud/DSA/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/expensivecloud/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/expensivecloud/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/expensivecloud/DSA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/expensivecloud/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/expensivecloud/DSA/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/expensivecloud/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/expensivecloud/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/expensivecloud/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/expensivecloud/DSA/tree/master/0567-permutation-in-string) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/expensivecloud/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/expensivecloud/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/expensivecloud/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/expensivecloud/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/expensivecloud/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/expensivecloud/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/expensivecloud/DSA/tree/master/0724-find-pivot-index) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/expensivecloud/DSA/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/expensivecloud/DSA/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/expensivecloud/DSA/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/expensivecloud/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/expensivecloud/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/expensivecloud/DSA/tree/master/0877-stone-game) |
 | [2578-split-with-minimum-sum](https://github.com/expensivecloud/DSA/tree/master/2578-split-with-minimum-sum) |
@@ -816,4 +820,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/expensivecloud/DSA/tree/master/0146-lru-cache) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/expensivecloud/DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
