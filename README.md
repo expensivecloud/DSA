@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/expensivecloud/DSA/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/expensivecloud/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/expensivecloud/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/expensivecloud/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/expensivecloud/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/expensivecloud/DSA/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/expensivecloud/DSA/tree/master/0414-third-maximum-number) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/expensivecloud/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/expensivecloud/DSA/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/expensivecloud/DSA/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/expensivecloud/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/expensivecloud/DSA/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/expensivecloud/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/expensivecloud/DSA/tree/master/0303-range-sum-query-immutable) |
 ## Data Stream
 |  |
 | ------- |
