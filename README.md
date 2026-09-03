@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/expensivecloud/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/expensivecloud/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2000-reverse-prefix-of-word](https://github.com/expensivecloud/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/expensivecloud/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/expensivecloud/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/expensivecloud/DSA/tree/master/3794-reverse-string-prefix) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/expensivecloud/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/expensivecloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/expensivecloud/DSA/tree/master/1048-longest-string-chain) |
+| [2000-reverse-prefix-of-word](https://github.com/expensivecloud/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/expensivecloud/DSA/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/expensivecloud/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/expensivecloud/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/expensivecloud/DSA/tree/master/0735-asteroid-collision) |
+| [2000-reverse-prefix-of-word](https://github.com/expensivecloud/DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
 |  |
 | ------- |
