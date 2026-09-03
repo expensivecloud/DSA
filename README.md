@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-shortest-path-to-get-all-keys](https://github.com/expensivecloud/DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0875-koko-eating-bananas](https://github.com/expensivecloud/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/expensivecloud/DSA/tree/master/0877-stone-game) |
+| [0930-binary-subarrays-with-sum](https://github.com/expensivecloud/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/expensivecloud/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0977-squares-of-a-sorted-array](https://github.com/expensivecloud/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/expensivecloud/DSA/tree/master/0990-satisfiability-of-equality-equations) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/expensivecloud/DSA/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/expensivecloud/DSA/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/expensivecloud/DSA/tree/master/0771-jewels-and-stones) |
+| [0930-binary-subarrays-with-sum](https://github.com/expensivecloud/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/expensivecloud/DSA/tree/master/1048-longest-string-chain) |
 | [1366-rank-teams-by-votes](https://github.com/expensivecloud/DSA/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/expensivecloud/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/expensivecloud/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/expensivecloud/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/expensivecloud/DSA/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/expensivecloud/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/expensivecloud/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/expensivecloud/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/expensivecloud/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/expensivecloud/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/expensivecloud/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/expensivecloud/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Queue
 |  |
