@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/expensivecloud/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/expensivecloud/DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/expensivecloud/DSA/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/expensivecloud/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/expensivecloud/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/expensivecloud/DSA/tree/master/0735-asteroid-collision) |
 | [0740-delete-and-earn](https://github.com/expensivecloud/DSA/tree/master/0740-delete-and-earn) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/expensivecloud/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/expensivecloud/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/expensivecloud/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/expensivecloud/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/expensivecloud/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
