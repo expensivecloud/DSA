@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/expensivecloud/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/expensivecloud/DSA/tree/master/0877-stone-game) |
 | [2578-split-with-minimum-sum](https://github.com/expensivecloud/DSA/tree/master/2578-split-with-minimum-sum) |
+| [3870-count-commas-in-range](https://github.com/expensivecloud/DSA/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
